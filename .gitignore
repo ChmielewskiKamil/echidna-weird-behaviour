@@ -13,3 +13,6 @@ out/
 # echidna
 crytic-export
 corpus
+
+# slither
+.vscode
